@@ -86,8 +86,8 @@ function App() {
         <header>
           <img src="./hero.png" alt="hero " />
           <h1>
-            Find the <span className="text-gradient">Movies</span> you love
-            without the hassle
+            Find the <span className="text-gradient">Latest Movies</span> you
+            love without the hassle
           </h1>
           <Search
             searchterm={searchterm}
