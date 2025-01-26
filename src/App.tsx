@@ -85,7 +85,7 @@ function App() {
       <div className="wrapper">
         <header>
           <img src="./hero.png" alt="hero " />
-          <h2>
+          <h2 className="text-center text-violet-500 text-3xl md:text-4xl">
             Find the <span className="text-gradient">Latest Movies</span> you
             love without the hassle
           </h2>

@@ -54,7 +54,7 @@
   }
 
   .wrapper {
-    @apply px-5 py-2 md:mt-[-80px] xs:p-5 max-w-7xl mx-auto flex flex-col relative z-10;
+    @apply px-6 md:px-18 py-2 md:mt-[-80px] xs:p-5 max-w-7xl mx-auto flex flex-col relative z-10;
   }
 
   .trending {
