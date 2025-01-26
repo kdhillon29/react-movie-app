@@ -85,10 +85,10 @@ function App() {
       <div className="wrapper">
         <header>
           <img src="./hero.png" alt="hero " />
-          <h1>
+          <h2>
             Find the <span className="text-gradient">Latest Movies</span> you
             love without the hassle
-          </h1>
+          </h2>
           <Search
             searchterm={searchterm}
             isLoading={loading}

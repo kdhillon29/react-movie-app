@@ -1,13 +1,3 @@
-// export type MovieProps = {
-//   movie: {
-//     title: string;
-//     vote_average: number;
-//     poster_path: string;
-//     release_date: string;
-//     original_language: string;
-//   };
-// };
-
 import { MovieType } from "../App";
 
 const MovieCard = ({
